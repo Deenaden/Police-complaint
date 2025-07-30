@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # YoCop
 
 # 🚨 AI & Blockchain-Powered Police Complaint Management System
