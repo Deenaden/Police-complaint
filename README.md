@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # YoCop
 
 # 🚨 AI & Blockchain-Powered Police Complaint Management System
@@ -101,3 +102,6 @@ Our solution restores **public trust** in emergency services and law enforcement
 5. Run AI server using Ollama + DeepSeek model  
 
 ---
+=======
+# Police-complaint
+>>>>>>> fcdd9a4e3396837ef4399c4299c03f736d524d6b
